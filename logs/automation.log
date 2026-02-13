@@ -1,0 +1,25 @@
+23:03:13.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:03:13.386 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:03:13.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:03:13.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:03:13.430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:03:13.432 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:03:13.476 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:03:13.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:03:13.480 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:03:13.521 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:03:13.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:03:13.524 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:03:13.575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:03:13.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:03:13.579 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:03:13.630 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:03:17.384 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:03:17.489 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:03:30.961 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:03:30.966 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:03:43.662 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:03:43.666 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:03:56.137 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:03:56.141 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****
+23:04:00.267 [main] INFO  testCase.TC003_LoginDDT - **** starting TC003_LoginDDT ****

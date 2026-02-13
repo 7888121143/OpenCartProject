@@ -27,7 +27,7 @@ public class DataProviders {
 				logindata[i-1][j]=xlutil.getCellData("sheet1", i, j);
 			}
 		}
-		return logindata;   //returning two dimenion array
+		return logindata;   //returning two dimension array
 	}
 	
 	
